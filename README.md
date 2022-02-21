@@ -7,4 +7,4 @@ Connect the lcd as seen in this image
 
 Connect a button from ground, to Digital pin 6.
 
-Thats it for the wiring :D upload the code and have fun!
+Thats it for the wiring :D Upload the code and have fun!
